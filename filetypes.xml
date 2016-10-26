@@ -5,6 +5,7 @@
       <mapping pattern=".editorconfig.org" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.swp" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="editorconfig" type="PLAIN_TEXT" />
       <mapping ext="blocklist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
