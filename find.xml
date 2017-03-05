@@ -2,10 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="项目 &quot;github&quot;" />
     <option name="defaultScopeName" value="项目 &quot;github&quot;" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="项目 &quot;github&quot;" />
   </component>
 </application>
