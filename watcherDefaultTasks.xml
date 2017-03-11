@@ -19,7 +19,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.10.0/bin/lessc " />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.10.0/bin/lessc" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
