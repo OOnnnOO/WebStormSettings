@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+  </component>
+</application>
